@@ -16,10 +16,6 @@ An Arduino-based smart medicine dispenser that automatically dispenses medicatio
 - LCD Display
 - Embedded C (Arduino)
 
-## Project Images
-
-![Project](images/image.jpeg)
-
 ## Demo Video
 [Click to see project Video](https://youtu.be/D7OepSH5e2E)
 
