@@ -18,10 +18,10 @@ An Arduino-based smart medicine dispenser that automatically dispenses medicatio
 
 ## Project Images
 
-![Project](images/project-photo1.jpg)
+![Project](images/image.jpeg)
 
 ## Demo Video
-[(Add YouTube or Drive link)](https://youtu.be/D7OepSH5e2E)
+[Click to see project Video](https://youtu.be/D7OepSH5e2E)
 
 ## Project Report
 See the report folder for full documentation.
