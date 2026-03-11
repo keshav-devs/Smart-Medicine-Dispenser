@@ -24,6 +24,7 @@ See the report folder for full documentation.
 
 ## Team Members
 - Keshav Gupta
+- Josh Yadav
 - Krish Koundal
 - Kaushal
-- Josh Yadav
+
